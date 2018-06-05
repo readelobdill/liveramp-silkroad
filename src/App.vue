@@ -11,4 +11,7 @@ export default {
 </script>
 
 <style>
+#app{
+  font-family: 'Noto Sans', sans-serif;
+}
 </style>
